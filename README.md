@@ -6,14 +6,14 @@
 
 ## 🚀 About Me
 
-Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** who loves creating innovative web applications and solving complex problems. I'm always eager to learn new technologies and contribute to exciting projects.
+Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** and recent graduate eager to start my career in web development. I'm always learning new technologies and looking for opportunities to apply my skills in real-world projects.
 
 ## 🔭 Currently Working On
 
 **LinkedIn Clone** - A full-featured social media platform
 - 🔗 [View Project](https://github.com/theja8458/LinkedInClone)
 - Built with MERN Stack
-- Features: User authentication, posts, connections, messaging
+- Features: User authentication, posts, connections
 
 ## 💻 Tech Stack
 
@@ -91,20 +91,22 @@ Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** who love
   </a>
 </div>
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
-- 🚀 Master advanced React patterns and Next.js
-- 🔧 Contribute to more open-source projects
-- 📚 Learn cloud technologies (AWS/Azure)
-- 🏆 Solve 500+ DSA problems
-- 🌟 Build and deploy 5 full-stack applications
+- 💼 **Secure my first job** as a MERN Stack Developer
+- 🚀 **Learn advanced React patterns** and Next.js
+- 🔧 **Contribute to open-source projects** to gain experience
+- 📚 **Explore cloud technologies** (AWS/Azure)
+- 🏆 **Solve 300+ DSA problems** to strengthen problem-solving skills
+- 🌟 **Build more full-stack projects** to showcase my abilities
 
 ## 💡 Fun Facts
 
-- 🎮 I love solving coding challenges in my free time
-- 📖 Always exploring new technologies and frameworks
-- 🤝 Open to collaborating on interesting projects
-- ☕ Coffee fuels my coding sessions
+- 🎮 I enjoy solving coding challenges on LeetCode and GeeksforGeeks
+- 📖 Currently learning and exploring new technologies daily
+- 🤝 **Open to job opportunities** and internships
+- 💻 Building projects to strengthen my portfolio
+- ☕ Coffee keeps me motivated during coding sessions
 
 ---
 
