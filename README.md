@@ -66,6 +66,10 @@ Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** and rece
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theja8458&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theja8458&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
