@@ -86,7 +86,7 @@ Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** and rece
 ## 📄 Resume
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1s_KG-mdpnwdJv-YaDPAxSygvqMBfEvpo/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1MKESwWLe4u0YcYUEJza1tB4RFAqsQbhj/view?usp=sharing">
     <img src="https://img.shields.io/static/v1?message=View%20Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume link" />
   </a>
 </div>
