@@ -91,14 +91,6 @@ Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** and rece
   </a>
 </div>
 
-## 🎯 Goals for 2025
-
-- 💼 **Secure my first job** as a MERN Stack Developer
-- 🚀 **Learn advanced React patterns** and Next.js
-- 🔧 **Contribute to open-source projects** to gain experience
-- 📚 **Explore cloud technologies** (AWS/Azure)
-- 🏆 **Solve 300+ DSA problems** to strengthen problem-solving skills
-- 🌟 **Build more full-stack projects** to showcase my abilities
 
 ## 💡 Fun Facts
 
