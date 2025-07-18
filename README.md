@@ -103,7 +103,7 @@ Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** and rece
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theja8458&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=380&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" alt="Thanks for visiting" />
 </div>
 
 <div align="center">
