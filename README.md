@@ -1,18 +1,18 @@
 # Hi there, I'm Theja Sugamanchi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+MERN+Stack+Developer;Always+learning+new+technologies;Building+amazing+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+FULL+Stack+Developer;Always+learning+new+technologies;Building+amazing+web+applications" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-Hi all! I'm **Theja Sugamanchi**, a passionate **MERN Stack Developer** and recent graduate eager to start my career in web development. I'm always learning new technologies and looking for opportunities to apply my skills in real-world projects.
+Hi all! I'm **Theja Sugamanchi**, a passionate **FULL Stack Developer** and recent graduate eager to start my career in web development. I'm always learning new technologies and looking for opportunities to apply my skills in real-world projects.
 
 ## 🔭 Currently Working On
 
 **LinkedIn Clone** - A full-featured social media platform
 - 🔗 [View Project](https://github.com/theja8458/LinkedInClone)
-- Built with MERN Stack
+- Built with FULL Stack
 - Features: User authentication, posts, connections
 
 ## 💻 Tech Stack
