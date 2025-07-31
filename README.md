@@ -8,13 +8,6 @@
 
 Hi all! I'm **Theja Sugamanchi**, a passionate **FULL Stack Developer** and recent graduate eager to start my career in web development. I'm always learning new technologies and looking for opportunities to apply my skills in real-world projects.
 
-## 🔭 Currently Working On
-
-**LinkedIn Clone** - A full-featured social media platform
-- 🔗 [View Project](https://github.com/theja8458/LinkedInClone)
-- Built with FULL Stack
-- Features: User authentication, posts, connections
-
 ## 💻 Tech Stack
 
 ### Programming Languages
