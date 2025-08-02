@@ -91,7 +91,7 @@ Hi all! I'm **Theja Sugamanchi**, a passionate **FULL Stack Developer** and rece
 - 📖 Currently learning and exploring new technologies daily
 - 🤝 **Open to job opportunities** and internships
 - 💻 Building projects to strengthen my portfolio
-- ☕ Coffee keeps me motivated during coding sessions
+- ☕ Coffee keeps me motivated during coding sessions :)....
 
 ---
 
